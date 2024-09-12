@@ -1,0 +1,14 @@
+# Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3
+.env
+*.log
+staticfiles/
+media/
+# React
+node_modules/
+build/
+*.log

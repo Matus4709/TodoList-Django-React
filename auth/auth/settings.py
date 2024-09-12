@@ -133,6 +133,13 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
 APPEND_SLASH = False
 
-# settings.py
 TIME_ZONE = 'Europe/Warsaw'
 USE_TZ = True
+
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'sandbox.smtp.mailtrap.io'  # Adres serwera SMTP
+EMAIL_PORT = 587  # Port serwera SMTP
+EMAIL_USE_TLS = True  # Użyj TLS
+EMAIL_HOST_USER = '3d458fab6a5d42'  # Twój adres e-mail
+EMAIL_HOST_PASSWORD = 'db81580507a2a4'  # Twoje hasło e-mail
+DEFAULT_FROM_EMAIL = 'test@example.com'  # Adres e-mail, z którego będą wysyłane wiadomości
