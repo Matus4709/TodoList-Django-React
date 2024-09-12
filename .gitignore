@@ -7,8 +7,7 @@ db.sqlite3
 .env
 *.log
 staticfiles/
-media/
-# React
+media/git
 node_modules/
 build/
 *.log
