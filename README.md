@@ -1,0 +1,6 @@
+![Zrzut ekranu 2024-09-12 131455](https://github.com/user-attachments/assets/ae568c58-a684-41c0-a1e5-8d1f516de7df)
+![Zrzut ekranu 2024-09-12 131449](https://github.com/user-attachments/assets/8719f0d4-bb60-4a2d-8bd0-ebca4c23aac2)
+![Zrzut ekranu 2024-09-12 131436](https://github.com/user-attachments/assets/b9521a85-3793-4537-b759-4c0b6a40c5ad)
+![Zrzut ekranu 2024-09-12 131420](https://github.com/user-attachments/assets/a0bd3f41-329c-4ee1-a04a-d27770a3136f)
+![Zrzut ekranu 2024-09-12 131411](https://github.com/user-attachments/assets/dcb33184-39e6-428a-80cb-59f8219d7b2b)
+![Zrzut ekranu 2024-09-12 131404](https://github.com/user-attachments/assets/27564e76-7bfe-438e-a18a-85b285a563c5)
